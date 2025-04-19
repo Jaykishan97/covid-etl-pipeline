@@ -1,0 +1,26 @@
+{
+    "file_name": "covid_raw_20250419_002239.csv",
+    "timestamp": "20250419_002239",
+    "row_count": 137700,
+    "column_count": 16,
+    "columns": [
+        "Data As Of",
+        "Start Date",
+        "End Date",
+        "Group",
+        "Year",
+        "Month",
+        "State",
+        "Sex",
+        "Age Group",
+        "COVID-19 Deaths",
+        "Total Deaths",
+        "Pneumonia Deaths",
+        "Pneumonia and COVID-19 Deaths",
+        "Influenza Deaths",
+        "Pneumonia, Influenza, or COVID-19 Deaths",
+        "Footnote"
+    ],
+    "file_size_kb": 25912.75,
+    "source_url": "https://data.cdc.gov/api/views/9bhg-hcku/rows.csv?accessType=DOWNLOAD"
+}
